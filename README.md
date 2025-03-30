@@ -25,7 +25,7 @@ The application uses the Hugging Face `nateraw/food` model to identify food item
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.7 to 3.9
 - Flask
 - SQLAlchemy
 - PyTorch
